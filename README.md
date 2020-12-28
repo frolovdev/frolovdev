@@ -10,7 +10,7 @@
 - Host
   * [elixirdaily](https://twitter.com/elixirdaily)
   * [backenddaily](https://twitter.com/backenddaily)
-  ...and more
+  * ...and more
 - 🔥 OSS Projects
   * [easymoney](https://github.com/frolovdev/easymoney)
   * [backend-case-studies](https://github.com/frolovdev/backend-case-studies)
