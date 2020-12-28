@@ -6,6 +6,7 @@
 - ⚡ Fun facts: Made a switch from frontend to backend development | owner of a French Bulldog | avid lover of sport (lost about 17 kg for quarantine)
 - Host
   * [elixirdaily](https://twitter.com/elixirdaily)
+  * [backenddaily](https://twitter.com/backenddaily)
 - 🔥 OSS Projects
   * [easymoney](https://github.com/frolovdev/easymoney)
   * [backend-case-studies](https://github.com/frolovdev/backend-case-studies)
