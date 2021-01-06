@@ -8,6 +8,7 @@
   * avid lover of sport (lost about 17 kg for quarantine)
 - Host
   * [elixirdaily](https://twitter.com/elixirdaily)
+  * [nodejsdaily](https://twitter.com/_nodejsdaily)
   * [backenddaily](https://twitter.com/backenddaily)
   * ...and more
 - 🔥 OSS Projects
