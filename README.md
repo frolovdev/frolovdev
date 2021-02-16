@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m into Javascript | Ruby | Typescript | Node | Rails | Elixir
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrey-frolov-3b8579155/) [Twitter](https://twitter.com/FrolovVndrei)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrey-frolov-3b8579155/) [Twitter](https://twitter.com/_frolov_a)
 - 📚 [Dev.to articles](https://dev.to/frolovdev)
 - ⚡ Fun facts: 
   * owner of a French Bulldog
