@@ -9,12 +9,9 @@
 - Host
   * [elixirdaily](https://twitter.com/elixirdaily)
   * [nodejsdaily](https://twitter.com/_nodejsdaily)
-  * [backenddaily](https://twitter.com/backenddaily)
   * ...and more
 - 🔥 OSS Projects
   * [easymoney](https://github.com/frolovdev/easymoney)
-  * [backend-case-studies](https://github.com/frolovdev/backend-case-studies)
-  * [moonflowerjs](https://github.com/moonflowerjs)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=frolovdev&show_icons=true)
