@@ -12,6 +12,7 @@
   * ...and more
 - 🔥 OSS Projects
   * [easymoney](https://github.com/frolovdev/easymoney)
+  * [anyspec](https://github.com/frolovdev/anyspec)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=frolovdev&show_icons=true)
