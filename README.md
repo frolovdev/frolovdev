@@ -15,4 +15,4 @@
   * [anyspec](https://github.com/frolovdev/anyspec)
 
 
-![](https://github-readme-stats.vercel.app/api?username=frolovdev&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolovdev)](https://github.com/anuraghazra/github-readme-stats)
