@@ -10,8 +10,9 @@
   * [elixirdaily](https://twitter.com/elixirdaily)
   * [nodejsdaily](https://twitter.com/_nodejsdaily)
   * ...and more
-- 🔥 OSS Projects
+- 🔥 OSS Projects author and maintainer
   * [easymoney](https://github.com/frolovdev/easymoney)
+  * [anyspec](https://github.com/frolovdev/anyspec)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolovdev)](https://github.com/anuraghazra/github-readme-stats)
