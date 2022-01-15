@@ -6,8 +6,6 @@
 
 - Host
   * [elixirdaily](https://twitter.com/elixirdaily)
-  * [nodejsdaily](https://twitter.com/_nodejsdaily)
-  * ...and more
 - 🔥 OSS Projects author and maintainer
   * [easymoney](https://github.com/frolovdev/easymoney)
   * [anyspec](https://github.com/frolovdev/anyspec)
