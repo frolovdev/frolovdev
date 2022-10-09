@@ -6,10 +6,6 @@
 
 - Host
   * [elixirdaily](https://twitter.com/elixirdaily)
-- 🔥 OSS Projects author and maintainer
-  * [easymoney](https://github.com/frolovdev/easymoney)
-  * [anyspec](https://github.com/frolovdev/anyspec)
-  * [bestyjs](https://github.com/frolovdev/bestyjs)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolovdev)](https://github.com/anuraghazra/github-readme-stats)
