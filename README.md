@@ -8,4 +8,3 @@
   * [elixirdaily](https://twitter.com/elixirdaily)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolovdev)](https://github.com/anuraghazra/github-readme-stats)
