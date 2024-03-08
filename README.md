@@ -1,4 +1,4 @@
 ### Whats poppin 👋
 
-- 🔭 I’m into Javascript | Rust | Typescript | Node
+- 🔭 I’m into Javascript | Rust | Typescript | Node | Ruby
 
